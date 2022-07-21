@@ -2,8 +2,8 @@
 templateKey: index-page
 title: anomaly
 image: /img/home-jumbotron.jpg
-heading: from Coco et Leo
-subheading: from Coco et Leo
+heading: a design studio
+subheading: a design studio
 slide_images:
   - s_image: /img/flavor_wheel.jpg
   - s_image: /img/chemex.jpg
